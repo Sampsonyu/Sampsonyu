@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Sampson 👋
 
-<!--
-**Sampsonyu/Sampsonyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Lab Tech Lead · Software Engineering · Applied Research · Data Science**
 
-Here are some ideas to get you started:
+[![Profile views](https://komarev.com/ghpvc/?username=Sampsonyu&label=Profile%20views&color=0969da&style=flat)](https://github.com/Sampsonyu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at the intersection of engineering, research, and data science to turn AI ideas into practical systems. My interests span machine learning, deep learning, NLP, Generative AI, and Agentic AI.
+
+- **Build:** AI applications, agent workflows, and the software around them.
+- **Explore:** New models and methods through focused experiments.
+- **Evaluate:** Model quality, system behavior, and practical tradeoffs.
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img src="assets/timeline-light.svg" alt="GitHub contribution timeline for Sampsonyu over the last year" width="100%">
+</picture>
+
+<table>
+  <tr>
+    <td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" alt="GitHub Stats for Sampsonyu" width="100%">
+</picture>
+    </td>
+    <td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
+  <img src="assets/streak-light.svg" alt="Total contributions, current streak, and longest streak for Sampsonyu" width="100%">
+</picture>
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <img src="assets/languages-light.svg" alt="Top languages by public repository count for Sampsonyu" width="48%">
+</picture>
+
+*Language distribution is based on repository counts, not coding time or proficiency.*
+
+## Pull Request Activity
+
+[![PRs opened](assets/pr-opened.svg)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3ASampsonyu&type=pullrequests)
+[![PRs open](assets/pr-open.svg)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3ASampsonyu+is%3Aopen&type=pullrequests)
+[![PRs merged](assets/pr-merged.svg)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3ASampsonyu+is%3Amerged&type=pullrequests)
+[![PRs closed (unmerged)](assets/pr-closed.svg)](https://github.com/search?q=is%3Apr+is%3Apublic+author%3ASampsonyu+is%3Aclosed+is%3Aunmerged&type=pullrequests)
+
+Public PRs authored by this account, including PRs to my own repositories. Click each badge to verify the matching GitHub results. Opened includes all states; merged PRs are a subset of opened PRs.
+
+<details>
+<summary>About these statistics</summary>
+
+- Charts and badges are refreshed daily by GitHub Actions; see [refresh timestamps](assets/updated.json).
+- PR counts use GitHub's public search with `author:Sampsonyu`; they do not count co-authorship or reviews.
+- Contribution cards follow GitHub's contribution rules and each service's aggregation period. They are not a lifetime count of every commit.
+- Third-party rendering services can occasionally be unavailable. This repository keeps the last valid card when a refresh fails.
+- Profile views counts requests for the live counter image, including repeat visits. It does not measure unique visitors.
+- Cards: [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards), [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats), and [Shields.io](https://shields.io/badges/git-hub-issue-custom-search).
+
+</details>

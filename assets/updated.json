@@ -1,0 +1,50 @@
+{
+  "timeline-light": {
+    "last_success_utc": "2026-11-13T18:19:49.365651+00:00",
+    "source": "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sampsonyu&theme=github"
+  },
+  "timeline-dark": {
+    "last_success_utc": "2026-11-13T18:19:49.512760+00:00",
+    "source": "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sampsonyu&theme=github_dark"
+  },
+  "stats-light": {
+    "last_success_utc": "2026-11-13T18:19:49.854597+00:00",
+    "source": "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sampsonyu&theme=github"
+  },
+  "stats-dark": {
+    "last_success_utc": "2026-11-13T18:19:49.991443+00:00",
+    "source": "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sampsonyu&theme=github_dark"
+  },
+  "languages-light": {
+    "last_success_utc": "2026-11-13T18:19:50.112773+00:00",
+    "source": "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sampsonyu&theme=github"
+  },
+  "languages-dark": {
+    "last_success_utc": "2026-11-13T18:19:50.242680+00:00",
+    "source": "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sampsonyu&theme=github_dark"
+  },
+  "streak-light": {
+    "last_success_utc": "2026-11-13T18:19:51.345593+00:00",
+    "source": "https://streak-stats.demolab.com/?user=Sampsonyu&hide_border=true&theme=default&disable_animations=true"
+  },
+  "streak-dark": {
+    "last_success_utc": "2026-11-13T18:19:52.874093+00:00",
+    "source": "https://streak-stats.demolab.com/?user=Sampsonyu&hide_border=true&theme=github-dark-blue&disable_animations=true"
+  },
+  "pr-opened": {
+    "last_success_utc": "2026-11-13T18:19:53.310009+00:00",
+    "source": "https://img.shields.io/github/issues-search?query=is%3Apr+is%3Apublic+author%3ASampsonyu&label=PRs+opened&color=0969da&logo=github"
+  },
+  "pr-open": {
+    "last_success_utc": "2026-11-13T18:19:53.802188+00:00",
+    "source": "https://img.shields.io/github/issues-search?query=is%3Apr+is%3Apublic+author%3ASampsonyu+is%3Aopen&label=PRs+open&color=1a7f37&logo=github"
+  },
+  "pr-merged": {
+    "last_success_utc": "2026-11-13T18:19:54.427916+00:00",
+    "source": "https://img.shields.io/github/issues-search?query=is%3Apr+is%3Apublic+author%3ASampsonyu+is%3Amerged&label=PRs+merged&color=8250df&logo=github"
+  },
+  "pr-closed": {
+    "last_success_utc": "2026-11-13T18:19:54.899576+00:00",
+    "source": "https://img.shields.io/github/issues-search?query=is%3Apr+is%3Apublic+author%3ASampsonyu+is%3Aclosed+is%3Aunmerged&label=PRs+closed+%28unmerged%29&color=6e7781&logo=github"
+  }
+}
