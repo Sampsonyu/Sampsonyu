@@ -28,6 +28,7 @@ def main():
     cards = json.loads((ROOT / 'scripts/cards.json').read_text())
     metadata_path = ROOT / 'assets/updated.json'
     metadata = json.loads(metadata_path.read_text()) if metadata_path.exists() else {}
+    metadata = {key: value for key, value in metadata.items() if key in cards}
     failures = 0
     for key, url in cards.items():
         try:

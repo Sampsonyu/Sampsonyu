@@ -30,10 +30,7 @@ I work at the intersection of engineering, research, and data science to turn AI
 </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg?v=compact-2">
-  <img src="assets/streak-light.svg?v=compact-2" alt="Total contributions, current streak, and longest streak for Sampsonyu" width="700">
-</picture>
+
 
 ### Pull Request Activity
 
@@ -54,6 +51,6 @@ Public PRs authored by this account, including my own repositories. Click a badg
 - Contribution cards follow GitHub's contribution rules and each service's aggregation period. They are not a lifetime count of every commit.
 - Third-party rendering services can occasionally be unavailable. This repository keeps the last valid card when a refresh fails.
 - Profile views counts requests for the live counter image, including repeat visits. It does not measure unique visitors.
-- Cards: [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards), [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats), and [Shields.io](https://shields.io/badges/git-hub-issue-custom-search).
+- Cards: [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) and [Shields.io](https://shields.io/badges/git-hub-issue-custom-search).
 
 </details>
