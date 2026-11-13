@@ -1,14 +1,17 @@
 # Hi, I'm Sampson 👋
 
-**AI Lab Tech Lead · Software Engineering · Applied Research · Data Science**
+**AI Lab Tech Lead · Data Science · Software Engineering · Applied Research**
 
 [![Profile views](https://komarev.com/ghpvc/?username=Sampsonyu&label=Profile%20views&color=0969da&style=flat)](https://github.com/Sampsonyu)
 
 I work at the intersection of engineering, research, and data science to turn AI ideas into practical systems. My interests span machine learning, deep learning, NLP, Generative AI, and Agentic AI.
 
-- **Build:** AI applications, agent workflows, and the software around them.
-- **Explore:** New models and methods through focused experiments.
-- **Evaluate:** Model quality, system behavior, and practical tradeoffs.
+## Areas of Focus
+
+- **Agentic AI & LLM Systems** — Multi-agent architectures, orchestration, RAG, and evaluation
+- **Machine Learning & Deep Learning** — Classification, NLP, supervised learning, and model development
+- **AI Research & Prototyping** — Emerging technologies, feasibility studies, and experimental validation
+- **Software Engineering** — System design, APIs, automation, and production-oriented AI development
 
 ## GitHub Activity
 
