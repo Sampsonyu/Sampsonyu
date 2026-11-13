@@ -1,10 +1,8 @@
-## Hi, I'm Sampson 👋
+## Hi, I'm Sampson 👋&nbsp;&nbsp;&nbsp;[![Profile views](https://komarev.com/ghpvc/?username=Sampsonyu&label=Profile%20views&color=0969da&style=flat)](https://github.com/Sampsonyu)
 
 **AI Lab Tech Lead · Data Scientist · Software Engineer · AI Researcher**
 
 I work across data science, software engineering, and applied AI research, with a focus on experimentation, model development, prototyping, and practical applications. My interests span machine learning, deep learning, NLP, Generative AI, and Agentic AI.
-
-[![Profile views](https://komarev.com/ghpvc/?username=Sampsonyu&label=Profile%20views&color=0969da&style=flat)](https://github.com/Sampsonyu)
 
 ### Areas of Focus
 
