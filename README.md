@@ -2,7 +2,7 @@
 
 **AI Lab Tech Lead · Data Scientist · Software Engineer · AI Researcher**
 
-I work at the intersection of engineering, research, and data science to turn AI ideas into practical systems. My interests span machine learning, deep learning, NLP, Generative AI, and Agentic AI.
+I work across data science, software engineering, and applied AI research, with a focus on experimentation, model development, prototyping, and practical applications. My interests span machine learning, deep learning, NLP, Generative AI, and Agentic AI.
 
 [![Profile views](https://komarev.com/ghpvc/?username=Sampsonyu&label=Profile%20views&color=0969da&style=flat)](https://github.com/Sampsonyu)
 
