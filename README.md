@@ -1,4 +1,4 @@
-## Hi, I'm Sampson 👋&nbsp;&nbsp;&nbsp;[![Profile views](https://komarev.com/ghpvc/?username=Sampsonyu&label=Profile%20views&color=0969da&style=flat)](https://github.com/Sampsonyu)
+## Hi, I'm Sampson 👋 <a href="https://github.com/Sampsonyu"><img align="right" src="https://komarev.com/ghpvc/?username=Sampsonyu&amp;label=Profile%20views&amp;color=0969da&amp;style=flat" alt="Profile views"></a>
 
 **AI Lab Tech Lead · Data Scientist · Software Engineer · AI Researcher**
 
