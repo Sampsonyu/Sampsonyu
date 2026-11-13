@@ -19,6 +19,27 @@ def style_card(data, key):
     titles = {'timeline': 'Contribution timeline', 'stats': 'GitHub statistics',
               'languages': 'Languages by repository'}
     kind = key.rsplit('-', 1)[0]
+    if kind == 'timeline':
+        # Keep the timeline focused on contributions and repository statistics.
+        # Remove the corresponding icon along with each profile metadata row.
+        parents = {child: parent for parent in root.iter() for child in parent}
+        removed_parents = set()
+        for node in list(root.iter(f'{{{NS}}}text')):
+            text = ''.join(node.itertext()).strip()
+            if '@' not in text and not text.startswith('Joined GitHub'):
+                continue
+            parent = parents[node]
+            row = re.search(r'--gpsc-i:\s*(\d+)', node.get('style', ''))
+            if row:
+                for sibling in list(parent):
+                    sibling_row = re.search(r'--gpsc-i:\s*(\d+)', sibling.get('style', ''))
+                    if sibling.tag == f'{{{NS}}}g' and sibling_row and sibling_row.group(1) == row.group(1):
+                        parent.remove(sibling)
+            parent.remove(node)
+            removed_parents.add(parent)
+        for parent in removed_parents:
+            if parent.get('transform') == 'translate(30,30)':
+                parent.set('transform', 'translate(30,44)')
     text_nodes = list(root.iter(f'{{{NS}}}text'))
     if not text_nodes:
         raise ValueError('Source card has no text')

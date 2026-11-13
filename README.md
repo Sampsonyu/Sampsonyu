@@ -1,8 +1,10 @@
 ## Hi, I'm Sampson 👋
 
-**AI Lab Tech Lead · Data Science · Software Engineering · Applied Research**
+**AI Lab Tech Lead · Data Scientist · Software Engineer · AI Researcher**
 
 I work at the intersection of engineering, research, and data science to turn AI ideas into practical systems. My interests span machine learning, deep learning, NLP, Generative AI, and Agentic AI.
+
+[![Profile views](https://komarev.com/ghpvc/?username=Sampsonyu&label=Profile%20views&color=0969da&style=flat)](https://github.com/Sampsonyu)
 
 ### Areas of Focus
 
@@ -14,8 +16,8 @@ I work at the intersection of engineering, research, and data science to turn AI
 ### GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg?v=compact-2">
-  <img src="assets/timeline-light.svg?v=compact-2" alt="GitHub contribution timeline for Sampsonyu over the last year" width="700">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg?v=compact-3">
+  <img src="assets/timeline-light.svg?v=compact-3" alt="GitHub contribution timeline for Sampsonyu over the last year" width="700">
 </picture>
 
 <p>
@@ -54,7 +56,3 @@ Public PRs authored by this account, including my own repositories. Click a badg
 - Cards: [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) and [Shields.io](https://shields.io/badges/git-hub-issue-custom-search).
 
 </details>
-
----
-
-[![Profile views](https://komarev.com/ghpvc/?username=Sampsonyu&label=Profile%20views&color=0969da&style=flat)](https://github.com/Sampsonyu)
