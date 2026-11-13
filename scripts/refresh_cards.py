@@ -4,6 +4,7 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 import json
 import xml.etree.ElementTree as ET
+from style_cards import style_card
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -35,6 +36,8 @@ def main():
                 data = response.read(2_000_001)
             if len(data) > 2_000_000:
                 raise ValueError('Card response exceeds size limit')
+            validate_svg(data)
+            data = style_card(data, key)
             validate_svg(data)
             target = ROOT / 'assets' / (key + '.svg')
             temporary = target.with_suffix('.svg.tmp')

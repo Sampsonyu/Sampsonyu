@@ -6,7 +6,7 @@
   "languages-light": "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sampsonyu&theme=github",
   "languages-dark": "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sampsonyu&theme=github_dark",
   "streak-light": "https://streak-stats.demolab.com/?user=Sampsonyu&hide_border=true&theme=default&disable_animations=true",
-  "streak-dark": "https://streak-stats.demolab.com/?user=Sampsonyu&hide_border=true&theme=github-dark-blue&disable_animations=true",
+  "streak-dark": "https://streak-stats.demolab.com/?user=Sampsonyu&hide_border=true&theme=default&disable_animations=true",
   "pr-opened": "https://img.shields.io/github/issues-search?query=is%3Apr+is%3Apublic+author%3ASampsonyu&label=PRs+opened&color=0969da&logo=github",
   "pr-open": "https://img.shields.io/github/issues-search?query=is%3Apr+is%3Apublic+author%3ASampsonyu+is%3Aopen&label=PRs+open&color=1a7f37&logo=github",
   "pr-merged": "https://img.shields.io/github/issues-search?query=is%3Apr+is%3Apublic+author%3ASampsonyu+is%3Amerged&label=PRs+merged&color=8250df&logo=github",
